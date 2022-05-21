@@ -1,0 +1,121 @@
+[
+  {
+     "response_type": "przywitanie",
+    "user_input": ["siema",
+      "hej",
+      "witaj",
+      "dzien",
+      "dobry",
+      "witaj",
+      "witam",
+      "czesc"],
+    "bot_response": "Dzien dobry, w czym moge pomoc?",
+    "required_words": []
+  },
+  {
+    "response_type": "pożegnanie",
+    "user_input": ["pa", "do", "widzenia", "zegnam","narazie","nara" ,"czesc"],
+    "bot_response": "Do widzenia!",
+    "required_words": []
+  },
+  {
+    "response_type": "samopoczucie",
+    "user_input": ["Jak", "sie", "czujesz"],
+    "bot_response": "Dziekuje, bardzo dobrze.",
+    "required_words": []
+  },
+
+  {
+    "response_type": "samopoczucie",
+    "user_input": ["Co", "tam"],
+    "bot_response": "Wszystko w najlepszym porzadku.",
+    "required_words": []
+  },
+
+  {
+    "response_type": "ok",
+    "user_input": ["dobrze", "swietnie", "super", "slabo","ok", "moze być","nienajgorzej"],
+    "bot_response": "ok",
+    "required_words": []
+  },
+  {
+    "response_type": "1",
+    "user_input": ["Kim", "jestes"],
+    "bot_response": "Jestem Janek, twoj asystent.",
+    "required_words": []
+  },
+  {
+    "response_type": "2",
+    "user_input": ["Co", "tu","robisz"],
+    "bot_response": "Rozmawiam z toba i probuje ci pomoc",
+    "required_words": []
+  },
+  {
+    "response_type": "3",
+    "user_input": ["W", "czym", "mozesz","mi","pomoc"],
+    "bot_response": "Ogolnie  pomogam we wszystkim, ale nie na wszystko znam odpowiedzi, caly czas się ucze",
+    "required_words": []
+  },
+  {
+    "response_type": "4",
+    "user_input": ["Gdzie", "moge", "znalezc","wiecej","informacji"],
+    "bot_response": "Tutaj https://www.google.pl/ ",
+    "required_words": []
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
